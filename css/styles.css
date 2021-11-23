@@ -346,7 +346,7 @@ button {
 }
 /*---regular customers---*/
 .customers {
-  background-color: #e5e5e5;
+  background-color: var(--main-title-color);
   padding-bottom: 94px;
 }
 .aside-box {
